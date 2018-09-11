@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Character\bin\Debug\Character.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Character\bin\Debug\Character.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Character\bin\Debug\Character.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Character\obj\Debug\Character.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Character\obj\Debug\Character.pdb

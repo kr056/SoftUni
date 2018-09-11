@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\RectangleArea\obj\Debug\RectangleArea.pdb

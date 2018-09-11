@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Beverage Labels\bin\Debug\Beverage Labels.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Beverage Labels\bin\Debug\Beverage Labels.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Beverage Labels\obj\Debug\Beverage Labels.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\Beverage Labels\obj\Debug\Beverage Labels.pdb

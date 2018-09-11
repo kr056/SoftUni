@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\MphToKmh\bin\Debug\MphToKmh.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\MphToKmh\bin\Debug\MphToKmh.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\MphToKmh\bin\Debug\MphToKmh.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\MphToKmh\obj\Debug\MphToKmh.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\MphToKmh\obj\Debug\MphToKmh.pdb
