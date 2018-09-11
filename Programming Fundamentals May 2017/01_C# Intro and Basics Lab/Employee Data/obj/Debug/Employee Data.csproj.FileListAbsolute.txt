@@ -1,0 +1,6 @@
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.exe.config
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.exe
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.pdb
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\obj\Debug\Employee Data.exe
+c:\Users\BooM\documents\visual studio 2017\Projects\Greeting\Employee Data\obj\Debug\Employee Data.pdb
