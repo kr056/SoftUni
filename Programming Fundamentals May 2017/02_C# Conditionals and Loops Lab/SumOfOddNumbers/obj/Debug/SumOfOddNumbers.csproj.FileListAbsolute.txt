@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

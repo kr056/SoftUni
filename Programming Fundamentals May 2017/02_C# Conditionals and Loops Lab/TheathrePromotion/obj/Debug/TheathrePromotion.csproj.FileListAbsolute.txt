@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\TheathrePromotion\bin\Debug\TheathrePromotion.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\TheathrePromotion\bin\Debug\TheathrePromotion.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\TheathrePromotion\bin\Debug\TheathrePromotion.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\TheathrePromotion\obj\Debug\TheathrePromotion.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\TheathrePromotion\obj\Debug\TheathrePromotion.pdb
