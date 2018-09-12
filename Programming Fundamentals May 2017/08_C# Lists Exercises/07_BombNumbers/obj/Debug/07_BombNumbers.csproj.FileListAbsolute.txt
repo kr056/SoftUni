@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\bin\Debug\07_BombNumbers.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\bin\Debug\07_BombNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\bin\Debug\07_BombNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\obj\Debug\07_BombNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\obj\Debug\07_BombNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\07_BombNumbers\obj\Debug\07_BombNumbers.csprojResolveAssemblyReference.cache

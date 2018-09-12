@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\bin\Debug\04_MaxSeqOfIncreasingElements.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\bin\Debug\04_MaxSeqOfIncreasingElements.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\bin\Debug\04_MaxSeqOfIncreasingElements.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\obj\Debug\04_MaxSeqOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\obj\Debug\04_MaxSeqOfIncreasingElements.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\04_MaxSeqOfIncreasingElements\obj\Debug\04_MaxSeqOfIncreasingElements.pdb

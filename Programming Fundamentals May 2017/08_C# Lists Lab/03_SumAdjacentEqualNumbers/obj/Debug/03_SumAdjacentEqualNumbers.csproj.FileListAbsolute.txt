@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\03_SumAdjacentEqualNumbers\bin\Debug\03_SumAdjacentEqualNumbers.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\03_SumAdjacentEqualNumbers\bin\Debug\03_SumAdjacentEqualNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\03_SumAdjacentEqualNumbers\bin\Debug\03_SumAdjacentEqualNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\03_SumAdjacentEqualNumbers\obj\Debug\03_SumAdjacentEqualNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\03_SumAdjacentEqualNumbers\obj\Debug\03_SumAdjacentEqualNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\bin\Debug\01_MaxSeqOfEqualElements.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\bin\Debug\01_MaxSeqOfEqualElements.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\bin\Debug\01_MaxSeqOfEqualElements.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\obj\Debug\01_MaxSeqOfEqualElements.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\obj\Debug\01_MaxSeqOfEqualElements.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsExercises\01_MaxSeqOfEqualElements\obj\Debug\01_MaxSeqOfEqualElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\bin\Debug\07_CountNumbers.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\bin\Debug\07_CountNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\bin\Debug\07_CountNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\obj\Debug\07_CountNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\obj\Debug\07_CountNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\07_CountNumbers\obj\Debug\07_CountNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\06_SquareNumbers\bin\Debug\06_SquareNumbers.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\06_SquareNumbers\bin\Debug\06_SquareNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\06_SquareNumbers\bin\Debug\06_SquareNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\06_SquareNumbers\obj\Debug\06_SquareNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ListsLab\06_SquareNumbers\obj\Debug\06_SquareNumbers.pdb

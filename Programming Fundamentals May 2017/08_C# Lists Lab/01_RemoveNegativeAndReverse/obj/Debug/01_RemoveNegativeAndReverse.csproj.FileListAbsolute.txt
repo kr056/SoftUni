@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\bin\Debug\Live.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\bin\Debug\Live.exe
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\bin\Debug\Live.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\obj\Debug\Live.exe
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\obj\Debug\Live.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\Live\obj\Debug\01_RemoveNegativeAndReverse.csprojResolveAssemblyReference.cache

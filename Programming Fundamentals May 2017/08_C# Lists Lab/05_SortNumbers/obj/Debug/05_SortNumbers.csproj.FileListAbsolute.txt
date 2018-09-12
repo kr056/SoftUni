@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\05_SortNumbers\bin\Debug\05_SortNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\05_SortNumbers\bin\Debug\05_SortNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\05_SortNumbers\bin\Debug\05_SortNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\05_SortNumbers\obj\Debug\05_SortNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ListsLab\05_SortNumbers\obj\Debug\05_SortNumbers.pdb
