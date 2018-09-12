@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

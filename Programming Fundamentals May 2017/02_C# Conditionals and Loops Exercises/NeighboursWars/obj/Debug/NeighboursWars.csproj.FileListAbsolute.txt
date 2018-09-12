@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\bin\Debug\NeighboursWars.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\bin\Debug\NeighboursWars.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\bin\Debug\NeighboursWars.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\obj\Debug\NeighboursWars.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\obj\Debug\NeighboursWars.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\NeighboursWars\obj\Debug\NeighboursWars.pdb

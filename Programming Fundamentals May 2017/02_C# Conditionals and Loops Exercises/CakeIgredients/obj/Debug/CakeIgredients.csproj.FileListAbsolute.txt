@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\CakeIgredients\bin\Debug\CakeIgredients.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\CakeIgredients\bin\Debug\CakeIgredients.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\CakeIgredients\bin\Debug\CakeIgredients.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\CakeIgredients\obj\Debug\CakeIgredients.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\CakeIgredients\obj\Debug\CakeIgredients.pdb

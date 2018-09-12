@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\TestNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\TestNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\TestNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\TestNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\TestNumbers.pdb

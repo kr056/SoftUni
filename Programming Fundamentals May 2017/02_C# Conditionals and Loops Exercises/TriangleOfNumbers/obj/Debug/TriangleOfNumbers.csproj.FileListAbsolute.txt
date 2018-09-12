@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

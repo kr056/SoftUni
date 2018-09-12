@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\bin\Debug\ChooseADrink.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\bin\Debug\ChooseADrink.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\obj\Debug\ChooseADrink.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\obj\Debug\ChooseADrink.exe
+c:\users\boom\documents\visual studio 2017\Projects\ConditionalStatementsandLoopsExercises\ChooseADrink\obj\Debug\ChooseADrink.pdb
