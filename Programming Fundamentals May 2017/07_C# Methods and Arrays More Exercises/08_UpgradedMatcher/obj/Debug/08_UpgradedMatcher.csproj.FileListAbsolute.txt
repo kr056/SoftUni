@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\bin\Debug\08_UpgradedMatcher.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\bin\Debug\08_UpgradedMatcher.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\bin\Debug\08_UpgradedMatcher.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\obj\Debug\08_UpgradedMatcher.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\obj\Debug\08_UpgradedMatcher.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\08_UpgradedMatcher\obj\Debug\08_UpgradedMatcher.pdb

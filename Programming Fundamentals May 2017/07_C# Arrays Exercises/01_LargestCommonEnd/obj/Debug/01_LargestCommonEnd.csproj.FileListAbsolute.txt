@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\bin\Debug\01_LargestCommonEnd.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\bin\Debug\01_LargestCommonEnd.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\bin\Debug\01_LargestCommonEnd.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysExercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.pdb

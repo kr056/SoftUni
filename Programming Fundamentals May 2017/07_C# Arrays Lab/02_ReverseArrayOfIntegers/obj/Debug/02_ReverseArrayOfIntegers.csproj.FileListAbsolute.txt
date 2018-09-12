@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\02_ReverseArrayOfIntegers\bin\Debug\02_ReverseArrayOfIntegers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\02_ReverseArrayOfIntegers\bin\Debug\02_ReverseArrayOfIntegers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\02_ReverseArrayOfIntegers\bin\Debug\02_ReverseArrayOfIntegers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\02_ReverseArrayOfIntegers\obj\Debug\02_ReverseArrayOfIntegers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\02_ReverseArrayOfIntegers\obj\Debug\02_ReverseArrayOfIntegers.pdb

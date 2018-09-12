@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\03_SafeManipulation\bin\Debug\03_SafeManipulation.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\03_SafeManipulation\bin\Debug\03_SafeManipulation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\03_SafeManipulation\bin\Debug\03_SafeManipulation.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\03_SafeManipulation\obj\Debug\03_SafeManipulation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\03_SafeManipulation\obj\Debug\03_SafeManipulation.pdb

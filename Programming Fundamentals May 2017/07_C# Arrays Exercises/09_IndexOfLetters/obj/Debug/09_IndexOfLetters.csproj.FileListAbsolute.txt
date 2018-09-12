@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.csprojResolveAssemblyReference.cache

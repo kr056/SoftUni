@@ -1,0 +1,5 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\09_ExtractMiddleElements\bin\Debug\09_ExtractMiddleElements.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\09_ExtractMiddleElements\bin\Debug\09_ExtractMiddleElements.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\09_ExtractMiddleElements\bin\Debug\09_ExtractMiddleElements.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\09_ExtractMiddleElements\obj\Debug\09_ExtractMiddleElements.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\09_ExtractMiddleElements\obj\Debug\09_ExtractMiddleElements.pdb

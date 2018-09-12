@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\bin\Debug\09_JumpAround.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\bin\Debug\09_JumpAround.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\bin\Debug\09_JumpAround.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\obj\Debug\09_JumpAround.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\obj\Debug\09_JumpAround.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\09_JumpAround\obj\Debug\09_JumpAround.pdb

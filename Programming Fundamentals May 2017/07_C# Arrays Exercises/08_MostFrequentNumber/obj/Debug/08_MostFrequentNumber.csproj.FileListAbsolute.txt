@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\08_MostFrequentNumber\bin\Debug\08_MostFrequentNumber.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\08_MostFrequentNumber\bin\Debug\08_MostFrequentNumber.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\08_MostFrequentNumber\bin\Debug\08_MostFrequentNumber.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\08_MostFrequentNumber\obj\Debug\08_MostFrequentNumber.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\08_MostFrequentNumber\obj\Debug\08_MostFrequentNumber.pdb

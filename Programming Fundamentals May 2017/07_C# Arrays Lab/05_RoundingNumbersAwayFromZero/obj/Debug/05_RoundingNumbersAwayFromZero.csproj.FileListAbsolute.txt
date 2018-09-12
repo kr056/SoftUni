@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\bin\Debug\05_RoundingNumbersAwayFromZero.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\bin\Debug\05_RoundingNumbersAwayFromZero.exe
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\bin\Debug\05_RoundingNumbersAwayFromZero.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\obj\Debug\05_RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\obj\Debug\05_RoundingNumbersAwayFromZero.exe
+c:\users\boom\documents\visual studio 2017\Projects\Arrays\05_RoundingNumbersAwayFromZero\obj\Debug\05_RoundingNumbersAwayFromZero.pdb

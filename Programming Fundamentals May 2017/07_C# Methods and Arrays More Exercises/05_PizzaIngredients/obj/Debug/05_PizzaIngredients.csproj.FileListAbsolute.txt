@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\bin\Debug\05_PizzaIngredients.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\bin\Debug\05_PizzaIngredients.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\bin\Debug\05_PizzaIngredients.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\obj\Debug\05_PizzaIngredients.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\obj\Debug\05_PizzaIngredients.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\05_PizzaIngredients\obj\Debug\05_PizzaIngredients.pdb

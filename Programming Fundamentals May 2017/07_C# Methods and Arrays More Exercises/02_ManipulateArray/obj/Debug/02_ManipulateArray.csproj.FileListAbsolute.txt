@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\bin\Debug\02_ManipulateArray.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\bin\Debug\02_ManipulateArray.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\bin\Debug\02_ManipulateArray.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\obj\Debug\02_ManipulateArray.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\obj\Debug\02_ManipulateArray.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\02_ManipulateArray\obj\Debug\02_ManipulateArray.pdb

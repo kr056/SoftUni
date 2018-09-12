@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\bin\Debug\03_LastKNumbersSums.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\bin\Debug\03_LastKNumbersSums.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\bin\Debug\03_LastKNumbersSums.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\obj\Debug\03_LastKNumbersSums.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\obj\Debug\03_LastKNumbersSums.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Arrays\03_LastKNumbersSums\obj\Debug\03_LastKNumbersSums.pdb

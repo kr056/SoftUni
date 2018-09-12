@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.pdb

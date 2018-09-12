@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\bin\Debug\07_InventoryMatcher.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\bin\Debug\07_InventoryMatcher.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\bin\Debug\07_InventoryMatcher.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\obj\Debug\07_InventoryMatcher.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\obj\Debug\07_InventoryMatcher.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\07_InventoryMatcher\obj\Debug\07_InventoryMatcher.pdb

@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\11_EqualSums\bin\Debug\11_EqualSums.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\11_EqualSums\bin\Debug\11_EqualSums.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\11_EqualSums\bin\Debug\11_EqualSums.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\11_EqualSums\obj\Debug\11_EqualSums.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\ArraysExercises\11_EqualSums\obj\Debug\11_EqualSums.pdb

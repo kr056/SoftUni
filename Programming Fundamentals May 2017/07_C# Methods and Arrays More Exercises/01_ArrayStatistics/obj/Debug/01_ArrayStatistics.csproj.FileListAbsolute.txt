@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\obj\Debug\01_ArrayStatistics.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\boom\documents\visual studio 2017\Projects\ArraysAndMethodsMoreExercisec\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
