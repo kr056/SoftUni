@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\bin\Debug\CreditCard.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\bin\Debug\CreditCard.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\obj\Debug\p01_CreditCard.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\obj\Debug\CreditCard.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\CSharpBasics_Exerices\CreditCard\obj\Debug\CreditCard.pdb
