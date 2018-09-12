@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\bin\Debug\06_UserLogs.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\bin\Debug\06_UserLogs.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\bin\Debug\06_UserLogs.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\obj\Debug\06_UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\obj\Debug\06_UserLogs.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\06_UserLogs\obj\Debug\06_UserLogs.pdb

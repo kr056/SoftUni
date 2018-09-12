@@ -1,0 +1,5 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\02_UpgradedPhoneBook\bin\Debug\02_UpgradedPhoneBook.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\02_UpgradedPhoneBook\bin\Debug\02_UpgradedPhoneBook.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\02_UpgradedPhoneBook\bin\Debug\02_UpgradedPhoneBook.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\02_UpgradedPhoneBook\obj\Debug\02_UpgradedPhoneBook.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\02_UpgradedPhoneBook\obj\Debug\02_UpgradedPhoneBook.pdb

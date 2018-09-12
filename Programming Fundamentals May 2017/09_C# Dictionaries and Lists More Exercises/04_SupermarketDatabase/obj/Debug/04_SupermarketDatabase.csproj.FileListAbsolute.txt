@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\bin\Debug\04_SupermarketDatabase.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\bin\Debug\04_SupermarketDatabase.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\bin\Debug\04_SupermarketDatabase.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\obj\Debug\04_SupermarketDatabase.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\obj\Debug\04_SupermarketDatabase.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\04_SupermarketDatabase\obj\Debug\04_SupermarketDatabase.csprojResolveAssemblyReference.cache

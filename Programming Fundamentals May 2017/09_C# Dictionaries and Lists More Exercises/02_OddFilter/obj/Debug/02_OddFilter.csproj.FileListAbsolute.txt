@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\bin\Debug\02_OddFilter.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\bin\Debug\02_OddFilter.exe
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\bin\Debug\02_OddFilter.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\obj\Debug\02_OddFilter.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\obj\Debug\02_OddFilter.exe
+c:\users\boom\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02_OddFilter\obj\Debug\02_OddFilter.pdb

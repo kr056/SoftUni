@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\bin\Debug\06_ByteFlip.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\bin\Debug\06_ByteFlip.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\bin\Debug\06_ByteFlip.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\obj\Debug\06_ByteFlip.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\obj\Debug\06_ByteFlip.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\06_ByteFlip\obj\Debug\06_ByteFlip.csprojResolveAssemblyReference.cache

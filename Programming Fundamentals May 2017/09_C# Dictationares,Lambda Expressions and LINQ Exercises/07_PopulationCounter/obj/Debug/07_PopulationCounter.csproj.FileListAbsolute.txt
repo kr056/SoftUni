@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\bin\Debug\07_PopulationCounter.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\bin\Debug\07_PopulationCounter.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\bin\Debug\07_PopulationCounter.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\obj\Debug\07_PopulationCounter.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\obj\Debug\07_PopulationCounter.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\07_PopulationCounter\obj\Debug\07_PopulationCounter.csprojResolveAssemblyReference.cache

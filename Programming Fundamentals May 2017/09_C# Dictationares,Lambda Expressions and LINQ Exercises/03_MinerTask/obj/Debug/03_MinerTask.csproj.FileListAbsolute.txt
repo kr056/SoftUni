@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\bin\Debug\03_MinerTask.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\bin\Debug\03_MinerTask.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\bin\Debug\03_MinerTask.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\obj\Debug\03_MinerTask.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\obj\Debug\03_MinerTask.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\03_MinerTask\obj\Debug\03_MinerTask.pdb

@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\bin\Debug\05_VarkingInvalidation.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\bin\Debug\05_VarkingInvalidation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\bin\Debug\05_VarkingInvalidation.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\obj\Debug\05_VarkingInvalidation.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\obj\Debug\05_VarkingInvalidation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05_VarkingInvalidation\obj\Debug\05_VarkingInvalidation.pdb

@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\bin\Debug\07_TakeSkipRope.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\bin\Debug\07_TakeSkipRope.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\bin\Debug\07_TakeSkipRope.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\obj\Debug\07_TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\obj\Debug\07_TakeSkipRope.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07_TakeSkipRope\obj\Debug\07_TakeSkipRope.pdb

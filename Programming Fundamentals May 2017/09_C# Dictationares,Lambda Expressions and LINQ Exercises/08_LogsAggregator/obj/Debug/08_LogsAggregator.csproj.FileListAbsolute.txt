@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\08_LogsAggregator\bin\Debug\08_LogsAggregator.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\08_LogsAggregator\bin\Debug\08_LogsAggregator.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\08_LogsAggregator\bin\Debug\08_LogsAggregator.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\08_LogsAggregator\obj\Debug\08_LogsAggregator.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Exercises\08_LogsAggregator\obj\Debug\08_LogsAggregator.pdb
