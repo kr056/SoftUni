@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

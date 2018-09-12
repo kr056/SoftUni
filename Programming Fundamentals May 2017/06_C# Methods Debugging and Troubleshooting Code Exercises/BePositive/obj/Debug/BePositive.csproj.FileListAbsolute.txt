@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\bin\Debug\BePositive.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\bin\Debug\BePositive.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\obj\Debug\BePositive.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\BePositive\obj\Debug\BePositive.pdb

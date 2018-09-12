@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\FilledSquare\bin\Debug\FilledSquare.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\FilledSquare\bin\Debug\FilledSquare.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\FilledSquare\bin\Debug\FilledSquare.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\FilledSquare\obj\Debug\FilledSquare.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\FilledSquare\obj\Debug\FilledSquare.pdb

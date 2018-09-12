@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

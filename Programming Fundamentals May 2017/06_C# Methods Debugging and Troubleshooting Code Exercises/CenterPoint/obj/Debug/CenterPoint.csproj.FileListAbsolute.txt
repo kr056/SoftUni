@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\bin\Debug\CenterPoint.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\bin\Debug\CenterPoint.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\bin\Debug\CenterPoint.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\obj\Debug\CenterPoint.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CenterPoint\obj\Debug\CenterPoint.pdb

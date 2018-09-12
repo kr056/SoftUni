@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\PrimeChecker\obj\Debug\PrimeChecker.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\PrimeChecker\obj\Debug\PrimeChecker.pdb

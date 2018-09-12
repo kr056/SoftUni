@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\bin\Debug\MasterNumber.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\obj\Debug\MasterNumber.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\MasterNumber\obj\Debug\MasterNumber.pdb

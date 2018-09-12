@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb

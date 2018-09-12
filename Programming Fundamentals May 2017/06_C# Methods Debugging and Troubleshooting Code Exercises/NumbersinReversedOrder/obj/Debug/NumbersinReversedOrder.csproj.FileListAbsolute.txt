@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\NumbersinReversedOrder\bin\Debug\NumbersinReversedOrder.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\NumbersinReversedOrder\bin\Debug\NumbersinReversedOrder.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\NumbersinReversedOrder\bin\Debug\NumbersinReversedOrder.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\NumbersinReversedOrder\obj\Debug\NumbersinReversedOrder.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\NumbersinReversedOrder\obj\Debug\NumbersinReversedOrder.pdb

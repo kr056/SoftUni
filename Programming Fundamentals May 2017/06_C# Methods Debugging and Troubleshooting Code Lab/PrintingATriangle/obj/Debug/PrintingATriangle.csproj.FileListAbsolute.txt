@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\PrintingATriangle\bin\Debug\PrintingATriangle.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\PrintingATriangle\bin\Debug\PrintingATriangle.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\PrintingATriangle\bin\Debug\PrintingATriangle.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\PrintingATriangle\obj\Debug\PrintingATriangle.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\PrintingATriangle\obj\Debug\PrintingATriangle.pdb

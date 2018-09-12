@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

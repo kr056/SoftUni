@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\bin\Debug\LongerLine.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\bin\Debug\LongerLine.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\bin\Debug\LongerLine.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\obj\Debug\LongerLine.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\obj\Debug\LongerLine.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\LongerLine\obj\Debug\LongerLine.csprojResolveAssemblyReference.cache

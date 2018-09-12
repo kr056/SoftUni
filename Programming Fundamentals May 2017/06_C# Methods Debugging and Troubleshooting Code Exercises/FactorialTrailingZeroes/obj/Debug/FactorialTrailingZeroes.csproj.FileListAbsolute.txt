@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

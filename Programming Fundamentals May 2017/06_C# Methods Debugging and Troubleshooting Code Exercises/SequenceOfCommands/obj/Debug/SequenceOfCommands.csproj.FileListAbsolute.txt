@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.pdb

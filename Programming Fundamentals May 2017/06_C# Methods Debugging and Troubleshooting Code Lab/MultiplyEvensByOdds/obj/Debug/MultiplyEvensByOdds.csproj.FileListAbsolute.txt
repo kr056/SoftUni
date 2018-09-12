@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode - Lab\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

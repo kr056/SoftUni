@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CubeProperties\bin\Debug\CubeProperties.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CubeProperties\bin\Debug\CubeProperties.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CubeProperties\bin\Debug\CubeProperties.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CubeProperties\obj\Debug\CubeProperties.exe
+c:\users\boom\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\CubeProperties\obj\Debug\CubeProperties.pdb
