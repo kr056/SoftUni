@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\bin\Debug\DataTypesAndVariablesMoreExercises.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\bin\Debug\DataTypesAndVariablesMoreExercises.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\bin\Debug\DataTypesAndVariablesMoreExercises.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\obj\Debug\TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\obj\Debug\DataTypesAndVariablesMoreExercises.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\DataTypesAndVariablesMoreExercises\obj\Debug\DataTypesAndVariablesMoreExercises.pdb

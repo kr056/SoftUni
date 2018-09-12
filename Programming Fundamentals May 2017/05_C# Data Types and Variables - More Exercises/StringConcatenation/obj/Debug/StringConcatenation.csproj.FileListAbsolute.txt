@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\obj\Debug\StringConcatenation.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\StringConcatenation\obj\Debug\StringConcatenation.pdb

@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.pdb

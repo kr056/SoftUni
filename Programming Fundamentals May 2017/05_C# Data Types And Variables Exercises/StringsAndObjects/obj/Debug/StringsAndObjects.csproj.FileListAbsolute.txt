@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

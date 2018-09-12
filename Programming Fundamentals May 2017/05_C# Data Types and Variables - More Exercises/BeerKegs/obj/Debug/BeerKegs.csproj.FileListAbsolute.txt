@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\BeerKegs.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BeerKegs\obj\Debug\BeerKegs.pdb

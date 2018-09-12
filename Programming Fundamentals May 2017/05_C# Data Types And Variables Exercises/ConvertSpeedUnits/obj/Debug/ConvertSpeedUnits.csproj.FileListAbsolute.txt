@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

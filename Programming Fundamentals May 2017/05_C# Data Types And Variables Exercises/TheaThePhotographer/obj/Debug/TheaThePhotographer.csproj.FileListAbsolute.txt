@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

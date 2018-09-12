@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

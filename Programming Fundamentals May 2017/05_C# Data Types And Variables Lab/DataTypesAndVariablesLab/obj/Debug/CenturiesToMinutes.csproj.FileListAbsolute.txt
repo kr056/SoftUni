@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\bin\Debug\DataTypesAndVariablesLab.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\bin\Debug\DataTypesAndVariablesLab.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\bin\Debug\DataTypesAndVariablesLab.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\obj\Debug\DataTypesAndVariablesLab.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\DataTypesAndVariablesLab\obj\Debug\DataTypesAndVariablesLab.pdb

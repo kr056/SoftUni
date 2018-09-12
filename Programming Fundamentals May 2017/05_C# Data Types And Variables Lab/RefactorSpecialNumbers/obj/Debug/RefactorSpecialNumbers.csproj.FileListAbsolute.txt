@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

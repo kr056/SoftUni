@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

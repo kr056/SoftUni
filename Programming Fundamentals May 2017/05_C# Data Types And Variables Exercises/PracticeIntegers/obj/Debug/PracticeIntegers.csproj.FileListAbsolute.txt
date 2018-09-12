@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.pdb

@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\bin\Debug\CenturiesToNanoSeconds.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\bin\Debug\CenturiesToNanoSeconds.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\bin\Debug\CenturiesToNanoSeconds.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\obj\Debug\CenturiesToNanoSeconds.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\obj\Debug\CenturiesToNanoSeconds.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\CenturiesToNanoSeconds\obj\Debug\CenturiesToNanoSeconds.csprojResolveAssemblyReference.cache

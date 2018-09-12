@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

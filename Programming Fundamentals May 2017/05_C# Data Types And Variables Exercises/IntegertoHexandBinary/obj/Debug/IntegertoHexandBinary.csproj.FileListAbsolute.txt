@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\IntegertoHexandBinary\bin\Debug\IntegertoHexandBinary.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\IntegertoHexandBinary\bin\Debug\IntegertoHexandBinary.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\IntegertoHexandBinary\bin\Debug\IntegertoHexandBinary.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\IntegertoHexandBinary\obj\Debug\IntegertoHexandBinary.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\IntegertoHexandBinary\obj\Debug\IntegertoHexandBinary.pdb

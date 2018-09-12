@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\TouristInformation.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\TouristInformation\obj\Debug\TouristInformation.pdb

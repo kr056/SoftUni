@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

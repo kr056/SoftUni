@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.pdb

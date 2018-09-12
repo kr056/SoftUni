@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

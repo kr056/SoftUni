@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.pdb

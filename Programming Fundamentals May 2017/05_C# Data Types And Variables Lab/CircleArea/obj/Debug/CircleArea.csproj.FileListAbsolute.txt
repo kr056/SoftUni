@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\CircleArea\bin\Debug\CircleArea.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\CircleArea\bin\Debug\CircleArea.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\CircleArea\bin\Debug\CircleArea.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\CircleArea\obj\Debug\CircleArea.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\CircleArea\obj\Debug\CircleArea.pdb

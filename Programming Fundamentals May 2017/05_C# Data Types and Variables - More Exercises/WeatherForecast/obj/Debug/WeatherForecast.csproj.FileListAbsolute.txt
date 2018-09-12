@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\WeatherForecast.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\WeatherForecast\obj\Debug\WeatherForecast.pdb

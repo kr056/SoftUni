@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Elevator\bin\Debug\Elevator.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Elevator\bin\Debug\Elevator.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Elevator\bin\Debug\Elevator.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Elevator\obj\Debug\Elevator.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Elevator\obj\Debug\Elevator.pdb

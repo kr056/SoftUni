@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\HouseBuilder\bin\Debug\HouseBuilder.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\HouseBuilder\obj\Debug\HouseBuilder.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\HouseBuilder\obj\Debug\HouseBuilder.pdb

@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\MakeaWord.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\MakeaWord.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\MakeaWord\bin\Debug\MakeaWord.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\MakeaWord.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\MakeaWord\obj\Debug\MakeaWord.pdb

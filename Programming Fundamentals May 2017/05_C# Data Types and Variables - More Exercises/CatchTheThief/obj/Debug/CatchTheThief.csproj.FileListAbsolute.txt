@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.pdb

@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorVolumeofPyramid\bin\Debug\RefactorVolumeofPyramid.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorVolumeofPyramid\bin\Debug\RefactorVolumeofPyramid.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorVolumeofPyramid\bin\Debug\RefactorVolumeofPyramid.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorVolumeofPyramid\obj\Debug\RefactorVolumeofPyramid.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\RefactorVolumeofPyramid\obj\Debug\RefactorVolumeofPyramid.pdb

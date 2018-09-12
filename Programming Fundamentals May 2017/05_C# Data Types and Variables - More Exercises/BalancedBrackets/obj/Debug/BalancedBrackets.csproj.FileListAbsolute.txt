@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\BalancedBrackets\obj\Debug\BalancedBrackets.pdb

@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Greeting\bin\Debug\Greeting.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Greeting\bin\Debug\Greeting.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Greeting\bin\Debug\Greeting.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Greeting\obj\Debug\Greeting.exe
+c:\users\boom\documents\visual studio 2017\Projects\CenturiesToMinutes\Greeting\obj\Debug\Greeting.pdb

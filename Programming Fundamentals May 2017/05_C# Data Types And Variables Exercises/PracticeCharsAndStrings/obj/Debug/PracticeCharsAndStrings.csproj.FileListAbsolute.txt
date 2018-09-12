@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.pdb
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+c:\users\boom\documents\visual studio 2017\Projects\DataTypesAndVariablesExercises\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb
