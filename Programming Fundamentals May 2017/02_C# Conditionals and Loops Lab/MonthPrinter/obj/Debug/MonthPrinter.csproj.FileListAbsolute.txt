@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MonthPrinter\bin\Debug\MonthPrinter.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MonthPrinter\bin\Debug\MonthPrinter.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MonthPrinter\obj\Debug\MonthPrinter.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MonthPrinter\obj\Debug\MonthPrinter.pdb

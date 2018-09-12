@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

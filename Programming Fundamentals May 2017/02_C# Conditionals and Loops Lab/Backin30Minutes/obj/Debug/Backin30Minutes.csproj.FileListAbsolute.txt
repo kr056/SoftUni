@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\Backin30Minutes\bin\Debug\Backin30Minutes.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\Backin30Minutes\bin\Debug\Backin30Minutes.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\Backin30Minutes\bin\Debug\Backin30Minutes.pdb
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\Backin30Minutes\obj\Debug\Backin30Minutes.exe
+c:\users\boom\documents\visual studio 2017\Projects\CSharp_Conditionals_and_Loops\Backin30Minutes\obj\Debug\Backin30Minutes.pdb
