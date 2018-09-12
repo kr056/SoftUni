@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

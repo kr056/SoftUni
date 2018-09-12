@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.pdb

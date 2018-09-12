@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\DNASequences\obj\Debug\DNASequences.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\BasicsMoreExercises\DNASequences\obj\Debug\DNASequences.pdb

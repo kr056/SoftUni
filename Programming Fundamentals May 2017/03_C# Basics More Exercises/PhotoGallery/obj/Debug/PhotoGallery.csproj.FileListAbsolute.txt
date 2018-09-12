@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

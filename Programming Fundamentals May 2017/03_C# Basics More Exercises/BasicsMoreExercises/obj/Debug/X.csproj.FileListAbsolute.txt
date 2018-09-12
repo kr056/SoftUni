@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\bin\Debug\BasicsMoreExercises.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\bin\Debug\BasicsMoreExercises.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\bin\Debug\BasicsMoreExercises.pdb
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\obj\Debug\X.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\obj\Debug\BasicsMoreExercises.exe
+c:\users\boom\documents\visual studio 2017\Projects\BasicsMoreExercises\BasicsMoreExercises\obj\Debug\BasicsMoreExercises.pdb
