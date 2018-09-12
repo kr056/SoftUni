@@ -1,5 +1,0 @@
-c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\CSharpBasics_Exerices\bin\Debug\CSharpBasics_Exerices.exe.config
-c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\CSharpBasics_Exerices\bin\Debug\CSharpBasics_Exerices.exe
-c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\CSharpBasics_Exerices\bin\Debug\CSharpBasics_Exerices.pdb
-c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\CSharpBasics_Exerices\obj\Debug\CSharpBasics_Exerices.exe
-c:\users\boom\documents\visual studio 2017\Projects\CSharpBasics_Exerices\CSharpBasics_Exerices\obj\Debug\CSharpBasics_Exerices.pdb
