@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\bin\Debug\02_LadyBugs.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\bin\Debug\02_LadyBugs.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\bin\Debug\02_LadyBugs.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\obj\Debug\02_LadyBugs.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\obj\Debug\02_LadyBugs.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationII\02_LadyBugs\obj\Debug\02_LadyBugs.csprojResolveAssemblyReference.cache
