@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.csprojResolveAssemblyReference.cache

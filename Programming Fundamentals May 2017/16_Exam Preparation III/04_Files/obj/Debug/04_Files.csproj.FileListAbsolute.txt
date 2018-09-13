@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\bin\Debug\04_Files.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\bin\Debug\04_Files.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\bin\Debug\04_Files.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\obj\Debug\04_Files.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\obj\Debug\04_Files.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparationIII\04_Files\obj\Debug\04_Files.pdb
