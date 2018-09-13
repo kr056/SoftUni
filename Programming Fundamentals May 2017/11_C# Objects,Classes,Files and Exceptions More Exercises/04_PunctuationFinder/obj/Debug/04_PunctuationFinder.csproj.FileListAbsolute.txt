@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\bin\Debug\04_PunctuationFinder.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\bin\Debug\04_PunctuationFinder.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\bin\Debug\04_PunctuationFinder.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\obj\Debug\04_PunctuationFinder.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\obj\Debug\04_PunctuationFinder.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\Objects,Classes,FilesAndExceptions\04_PunctuationFinder\obj\Debug\04_PunctuationFinder.csprojResolveAssemblyReference.cache

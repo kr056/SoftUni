@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\bin\Debug\08_AverageGrades.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\bin\Debug\08_AverageGrades.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\bin\Debug\08_AverageGrades.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\obj\Debug\08_AverageGrades.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\obj\Debug\08_AverageGrades.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\08_AverageGrades\obj\Debug\08_AverageGrades.csprojResolveAssemblyReference.cache

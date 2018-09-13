@@ -1,0 +1,5 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\02_IndexOfLetters\bin\Debug\02_IndexOfLetters.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\02_IndexOfLetters\bin\Debug\02_IndexOfLetters.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\02_IndexOfLetters\bin\Debug\02_IndexOfLetters.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\02_IndexOfLetters\obj\Debug\02_IndexOfLetters.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\02_IndexOfLetters\obj\Debug\02_IndexOfLetters.pdb

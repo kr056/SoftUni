@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\05_FolderSize\bin\Debug\05_FolderSize.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\05_FolderSize\bin\Debug\05_FolderSize.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\05_FolderSize\bin\Debug\05_FolderSize.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\05_FolderSize\obj\Debug\05_FolderSize.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\05_FolderSize\obj\Debug\05_FolderSize.pdb

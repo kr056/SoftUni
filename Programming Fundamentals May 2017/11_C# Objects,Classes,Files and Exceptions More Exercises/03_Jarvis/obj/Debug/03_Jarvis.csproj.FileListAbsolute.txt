@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\bin\Debug\03_Jarvis.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\bin\Debug\03_Jarvis.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\bin\Debug\03_Jarvis.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\obj\Debug\03_Jarvis.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\obj\Debug\03_Jarvis.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\03_Jarvis\obj\Debug\03_Jarvis.pdb

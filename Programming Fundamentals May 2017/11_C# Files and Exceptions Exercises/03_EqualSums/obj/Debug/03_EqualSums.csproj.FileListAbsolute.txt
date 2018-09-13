@@ -1,0 +1,5 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\03_EqualSums\bin\Debug\03_EqualSums.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\03_EqualSums\bin\Debug\03_EqualSums.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\03_EqualSums\bin\Debug\03_EqualSums.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\03_EqualSums\obj\Debug\03_EqualSums.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\03_EqualSums\obj\Debug\03_EqualSums.pdb

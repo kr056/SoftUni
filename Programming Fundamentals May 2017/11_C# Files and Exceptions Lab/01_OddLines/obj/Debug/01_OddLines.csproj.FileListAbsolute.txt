@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\bin\Debug\01_OddLines.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\bin\Debug\01_OddLines.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\bin\Debug\01_OddLines.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\obj\Debug\01_OddLines.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\obj\Debug\01_OddLines.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\01_OddLines\obj\Debug\01_OddLines.pdb

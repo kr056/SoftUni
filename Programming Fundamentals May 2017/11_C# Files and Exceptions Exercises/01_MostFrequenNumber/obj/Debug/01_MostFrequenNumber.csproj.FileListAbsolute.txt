@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\bin\Debug\01_MostFrequenNumber.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\bin\Debug\01_MostFrequenNumber.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\bin\Debug\01_MostFrequenNumber.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\obj\Debug\01_MostFrequenNumber.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\obj\Debug\01_MostFrequenNumber.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\01_MostFrequenNumber\obj\Debug\01_MostFrequenNumber.pdb

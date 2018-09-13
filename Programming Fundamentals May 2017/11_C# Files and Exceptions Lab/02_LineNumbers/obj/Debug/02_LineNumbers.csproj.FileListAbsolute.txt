@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\02_LineNumbers\bin\Debug\02_LineNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\02_LineNumbers\bin\Debug\02_LineNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\02_LineNumbers\bin\Debug\02_LineNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\02_LineNumbers\obj\Debug\02_LineNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\02_LineNumbers\obj\Debug\02_LineNumbers.pdb

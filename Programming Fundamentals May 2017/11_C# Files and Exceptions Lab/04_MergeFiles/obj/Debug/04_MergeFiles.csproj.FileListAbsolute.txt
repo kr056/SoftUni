@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\04_MergeFiles\bin\Debug\04_MergeFiles.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\04_MergeFiles\bin\Debug\04_MergeFiles.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\04_MergeFiles\bin\Debug\04_MergeFiles.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\04_MergeFiles\obj\Debug\04_MergeFiles.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\04_MergeFiles\obj\Debug\04_MergeFiles.pdb

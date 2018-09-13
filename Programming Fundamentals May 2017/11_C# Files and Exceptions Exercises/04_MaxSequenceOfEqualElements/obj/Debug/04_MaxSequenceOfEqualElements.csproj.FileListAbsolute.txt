@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\bin\Debug\05_MaxSequenceOfEqualElements.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\bin\Debug\05_MaxSequenceOfEqualElements.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\bin\Debug\05_MaxSequenceOfEqualElements.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\obj\Debug\04_MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\obj\Debug\05_MaxSequenceOfEqualElements.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\05_MaxSequenceOfEqualElements\obj\Debug\05_MaxSequenceOfEqualElements.pdb

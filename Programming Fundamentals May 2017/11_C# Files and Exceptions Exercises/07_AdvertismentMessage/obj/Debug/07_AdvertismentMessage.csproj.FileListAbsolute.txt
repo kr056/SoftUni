@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\bin\Debug\07_AdvertismentMessage.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\bin\Debug\07_AdvertismentMessage.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\bin\Debug\07_AdvertismentMessage.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\obj\Debug\07_AdvertismentMessage.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\obj\Debug\07_AdvertismentMessage.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\FilexAndExceptions-Exercises\07_AdvertismentMessage\obj\Debug\07_AdvertismentMessage.pdb

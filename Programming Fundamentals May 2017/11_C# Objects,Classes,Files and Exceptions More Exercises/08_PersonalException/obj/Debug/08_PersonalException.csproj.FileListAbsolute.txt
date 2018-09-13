@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\08_PersonalException\bin\Debug\08_PersonalException.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\08_PersonalException\bin\Debug\08_PersonalException.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\08_PersonalException\bin\Debug\08_PersonalException.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\08_PersonalException\obj\Debug\08_PersonalException.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\08_PersonalException\obj\Debug\08_PersonalException.pdb

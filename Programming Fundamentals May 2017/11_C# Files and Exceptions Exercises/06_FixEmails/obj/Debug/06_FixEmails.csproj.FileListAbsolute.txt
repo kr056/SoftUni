@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\06_FixEmails\bin\Debug\06_FixEmails.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\06_FixEmails\bin\Debug\06_FixEmails.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\06_FixEmails\bin\Debug\06_FixEmails.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\06_FixEmails\obj\Debug\06_FixEmails.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\06_FixEmails\obj\Debug\06_FixEmails.pdb

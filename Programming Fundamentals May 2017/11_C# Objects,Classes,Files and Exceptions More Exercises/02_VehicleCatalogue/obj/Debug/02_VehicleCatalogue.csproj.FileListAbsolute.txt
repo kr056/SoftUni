@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\bin\Debug\02_VehicleCatalogue.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\bin\Debug\02_VehicleCatalogue.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\bin\Debug\02_VehicleCatalogue.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\obj\Debug\02_VehicleCatalogue.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\obj\Debug\02_VehicleCatalogue.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\02_VehicleCatalogue\obj\Debug\02_VehicleCatalogue.pdb

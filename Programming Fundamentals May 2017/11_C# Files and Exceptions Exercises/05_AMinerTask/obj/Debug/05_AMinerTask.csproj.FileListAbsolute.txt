@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\bin\Debug\05_AMinerTask.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\bin\Debug\05_AMinerTask.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\bin\Debug\05_AMinerTask.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\obj\Debug\05_AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\obj\Debug\05_AMinerTask.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\05_AMinerTask\obj\Debug\05_AMinerTask.pdb

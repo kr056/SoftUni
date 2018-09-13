@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\05_WriteToFile\bin\Debug\05_WriteToFile.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\05_WriteToFile\bin\Debug\05_WriteToFile.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\05_WriteToFile\bin\Debug\05_WriteToFile.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\05_WriteToFile\obj\Debug\05_WriteToFile.exe
+c:\users\boom\documents\visual studio 2017\Projects\Objects,Classes,FilesAndExceptions\05_WriteToFile\obj\Debug\05_WriteToFile.pdb

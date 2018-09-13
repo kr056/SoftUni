@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\obj\Debug\03_WordCount.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\bin\Debug\03_WordCount.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\bin\Debug\03_WordCount.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\bin\Debug\03_WordCount.pdb
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\obj\Debug\03_WordCount.exe
+c:\users\boom\documents\visual studio 2017\Projects\Files,DirectoriesAndExceptions-Lab\03_WordCount\obj\Debug\03_WordCount.pdb

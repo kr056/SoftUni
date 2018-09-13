@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\10_BookLibrary\bin\Debug\10_BookLibrary.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\10_BookLibrary\bin\Debug\10_BookLibrary.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\10_BookLibrary\bin\Debug\10_BookLibrary.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\10_BookLibrary\obj\Debug\10_BookLibrary.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\FilexAndExceptions-Exercises\10_BookLibrary\obj\Debug\10_BookLibrary.pdb
