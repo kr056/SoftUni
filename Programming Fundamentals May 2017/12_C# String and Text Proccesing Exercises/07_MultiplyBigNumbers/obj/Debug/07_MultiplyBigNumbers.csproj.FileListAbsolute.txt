@@ -1,6 +1,0 @@
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\obj\Debug\07_MultiplyBigNumbers.csprojResolveAssemblyReference.cache
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\bin\Debug\07_MultiplyBigNumbers.exe.config
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\bin\Debug\07_MultiplyBigNumbers.exe
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\bin\Debug\07_MultiplyBigNumbers.pdb
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\obj\Debug\07_MultiplyBigNumbers.exe
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\07_MultiplyBigNumbers\obj\Debug\07_MultiplyBigNumbers.pdb

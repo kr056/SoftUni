@@ -1,6 +1,0 @@
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\bin\Debug\01_ConvertFromBase-10ToBase-N.exe.config
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\bin\Debug\01_ConvertFromBase-10ToBase-N.exe
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\bin\Debug\01_ConvertFromBase-10ToBase-N.pdb
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\obj\Debug\01_ConvertFromBase-10ToBase-N.csprojResolveAssemblyReference.cache
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\obj\Debug\01_ConvertFromBase-10ToBase-N.exe
-c:\users\boom\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\01_ConvertFromBase-10ToBase-N\obj\Debug\01_ConvertFromBase-10ToBase-N.pdb
