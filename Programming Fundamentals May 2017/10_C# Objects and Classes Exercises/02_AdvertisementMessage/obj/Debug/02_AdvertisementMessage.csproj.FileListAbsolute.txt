@@ -1,6 +1,0 @@
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe.config
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.pdb
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.csprojResolveAssemblyReference.cache
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.exe
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.pdb

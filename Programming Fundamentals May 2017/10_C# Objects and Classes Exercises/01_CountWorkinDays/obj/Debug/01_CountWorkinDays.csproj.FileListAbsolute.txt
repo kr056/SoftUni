@@ -1,6 +1,0 @@
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\bin\Debug\01_CountWorkinDays.exe.config
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\bin\Debug\01_CountWorkinDays.exe
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\bin\Debug\01_CountWorkinDays.pdb
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\obj\Debug\01_CountWorkinDays.csprojResolveAssemblyReference.cache
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\obj\Debug\01_CountWorkinDays.exe
-c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\01_CountWorkinDays\obj\Debug\01_CountWorkinDays.pdb
