@@ -1,6 +1,0 @@
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\bin\Debug\03_EnduranceRally.exe.config
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\bin\Debug\03_EnduranceRally.exe
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\bin\Debug\03_EnduranceRally.pdb
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\obj\Debug\03_EnduranceRally.csprojResolveAssemblyReference.cache
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\obj\Debug\03_EnduranceRally.exe
-c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\03_EnduranceRally\obj\Debug\03_EnduranceRally.pdb
