@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\bin\Debug\04_CharMultiplier.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\bin\Debug\04_CharMultiplier.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\bin\Debug\04_CharMultiplier.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\obj\Debug\04_CharMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\obj\Debug\04_CharMultiplier.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\04_CharMultiplier\obj\Debug\04_CharMultiplier.pdb
