@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\bin\Debug\02_MatchPhones.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\bin\Debug\02_MatchPhones.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\bin\Debug\02_MatchPhones.pdb
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\obj\Debug\02_MatchPhones.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\obj\Debug\02_MatchPhones.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\02_MatchPhones\obj\Debug\02_MatchPhones.pdb

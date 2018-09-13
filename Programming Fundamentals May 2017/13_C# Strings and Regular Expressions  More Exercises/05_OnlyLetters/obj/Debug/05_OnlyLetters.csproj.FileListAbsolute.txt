@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\bin\Debug\05_OnlyLetters.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\bin\Debug\05_OnlyLetters.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\bin\Debug\05_OnlyLetters.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\obj\Debug\05_OnlyLetters.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\obj\Debug\05_OnlyLetters.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\05_OnlyLetters\obj\Debug\05_OnlyLetters.pdb

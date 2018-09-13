@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\bin\Debug\05_MatchNumbers.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\bin\Debug\05_MatchNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\bin\Debug\05_MatchNumbers.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\obj\Debug\05_MatchNumbers.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\obj\Debug\05_MatchNumbers.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\05_MatchNumbers\obj\Debug\05_MatchNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\bin\Debug\06_ReplaceATag.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\bin\Debug\06_ReplaceATag.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\bin\Debug\06_ReplaceATag.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\obj\Debug\06_ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\obj\Debug\06_ReplaceATag.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\06_ReplaceATag\obj\Debug\06_ReplaceATag.pdb

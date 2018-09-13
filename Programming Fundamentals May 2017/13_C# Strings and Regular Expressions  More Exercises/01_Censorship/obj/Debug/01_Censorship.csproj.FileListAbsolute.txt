@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\bin\Debug\01_Censorship.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\bin\Debug\01_Censorship.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\bin\Debug\01_Censorship.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\obj\Debug\01_Censorship.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\obj\Debug\01_Censorship.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\01_Censorship\obj\Debug\01_Censorship.pdb

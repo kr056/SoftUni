@@ -1,0 +1,5 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\04_MatchDate\bin\Debug\04_MatchDate.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\04_MatchDate\bin\Debug\04_MatchDate.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\04_MatchDate\bin\Debug\04_MatchDate.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\04_MatchDate\obj\Debug\04_MatchDate.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\RegEx-Lab\04_MatchDate\obj\Debug\04_MatchDate.pdb

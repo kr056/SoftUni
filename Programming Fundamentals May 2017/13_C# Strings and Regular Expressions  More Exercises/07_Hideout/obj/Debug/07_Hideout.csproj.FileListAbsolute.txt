@@ -1,0 +1,5 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\07_Hideout\bin\Debug\07_Hideout.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\07_Hideout\bin\Debug\07_Hideout.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\07_Hideout\bin\Debug\07_Hideout.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\07_Hideout\obj\Debug\07_Hideout.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\07_Hideout\obj\Debug\07_Hideout.pdb

@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\obj\Debug\01_MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\bin\Debug\01_MatchFullName.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\bin\Debug\01_MatchFullName.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\bin\Debug\01_MatchFullName.pdb
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\obj\Debug\01_MatchFullName.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\01_MatchFullName\obj\Debug\01_MatchFullName.pdb

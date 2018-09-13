@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\bin\Debug\08_Mines.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\bin\Debug\08_Mines.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\bin\Debug\08_Mines.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\obj\Debug\08_Mines.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\obj\Debug\08_Mines.pdb
+C:\Users\Bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\08_Mines\obj\Debug\08_Mines.csprojResolveAssemblyReference.cache

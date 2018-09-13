@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\bin\Debug\03_Karate.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\bin\Debug\03_Karate.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\bin\Debug\03_Karate.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\obj\Debug\03_Karate.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\obj\Debug\03_Karate.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\03_Karate\obj\Debug\03_Karate.pdb

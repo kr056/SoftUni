@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\bin\Debug\02_EmailMe.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\bin\Debug\02_EmailMe.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\bin\Debug\02_EmailMe.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\obj\Debug\02_EmailMe.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\obj\Debug\02_EmailMe.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\02_EmailMe\obj\Debug\02_EmailMe.pdb

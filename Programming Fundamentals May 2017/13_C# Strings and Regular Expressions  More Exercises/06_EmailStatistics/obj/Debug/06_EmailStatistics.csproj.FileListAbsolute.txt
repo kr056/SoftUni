@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\bin\Debug\06_EmailStatistics.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\bin\Debug\06_EmailStatistics.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\bin\Debug\06_EmailStatistics.pdb
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\obj\Debug\06_EmailStatistics.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\obj\Debug\06_EmailStatistics.exe
+c:\users\bang\documents\visual studio 2017\Projects\RegEx-MoreExercises\06_EmailStatistics\obj\Debug\06_EmailStatistics.pdb

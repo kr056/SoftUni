@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\bin\Debug\03_MatchHexNumbers.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\bin\Debug\03_MatchHexNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\bin\Debug\03_MatchHexNumbers.pdb
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\obj\Debug\03_MatchHexNumbers.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\obj\Debug\03_MatchHexNumbers.exe
+c:\users\boom\documents\visual studio 2017\Projects\RegEx-Lab\03_MatchHexNumbers\obj\Debug\03_MatchHexNumbers.pdb
