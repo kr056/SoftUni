@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.pdb
