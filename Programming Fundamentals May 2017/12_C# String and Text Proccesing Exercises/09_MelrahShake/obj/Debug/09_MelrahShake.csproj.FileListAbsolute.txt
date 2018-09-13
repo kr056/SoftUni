@@ -1,0 +1,6 @@
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\bin\Debug\09_MelrahShake.exe.config
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\bin\Debug\09_MelrahShake.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\bin\Debug\09_MelrahShake.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\obj\Debug\09_MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\obj\Debug\09_MelrahShake.exe
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\09_MelrahShake\obj\Debug\09_MelrahShake.pdb

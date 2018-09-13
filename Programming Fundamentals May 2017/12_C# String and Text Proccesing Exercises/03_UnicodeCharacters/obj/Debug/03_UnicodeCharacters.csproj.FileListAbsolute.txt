@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\bin\Debug\03_UnicodeCharacters.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\bin\Debug\03_UnicodeCharacters.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\bin\Debug\03_UnicodeCharacters.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\obj\Debug\03_UnicodeCharacters.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\obj\Debug\03_UnicodeCharacters.pdb
+C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\03_UnicodeCharacters\obj\Debug\03_UnicodeCharacters.csprojResolveAssemblyReference.cache

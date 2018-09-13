@@ -1,0 +1,5 @@
+c:\users\boom\documents\visual studio 2017\Projects\StringAndTextProccesingsLab\03_TextFilter\bin\Debug\03_TextFilter.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\StringAndTextProccesingsLab\03_TextFilter\bin\Debug\03_TextFilter.exe
+c:\users\boom\documents\visual studio 2017\Projects\StringAndTextProccesingsLab\03_TextFilter\bin\Debug\03_TextFilter.pdb
+c:\users\boom\documents\visual studio 2017\Projects\StringAndTextProccesingsLab\03_TextFilter\obj\Debug\03_TextFilter.exe
+c:\users\boom\documents\visual studio 2017\Projects\StringAndTextProccesingsLab\03_TextFilter\obj\Debug\03_TextFilter.pdb
