@@ -1,6 +1,0 @@
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\bin\Debug\02_ConvertFromBase-NToBase-10.exe.config
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\bin\Debug\02_ConvertFromBase-NToBase-10.exe
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\bin\Debug\02_ConvertFromBase-NToBase-10.pdb
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\obj\Debug\02_ConvertFromBase-NToBase-10.csprojResolveAssemblyReference.cache
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\obj\Debug\02_ConvertFromBase-NToBase-10.exe
-C:\Users\BooM\Documents\Visual Studio 2017\Projects\StringsAndTextProccessing-Exercises\02_ConvertFromBase-NToBase-10\obj\Debug\02_ConvertFromBase-NToBase-10.pdb

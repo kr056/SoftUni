@@ -1,6 +1,0 @@
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\bin\Debug\05_MagicExchangeableWords.exe.config
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\bin\Debug\05_MagicExchangeableWords.exe
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\bin\Debug\05_MagicExchangeableWords.pdb
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\obj\Debug\05_MagicExchangeableWords.exe
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\obj\Debug\05_MagicExchangeableWords.pdb
-C:\Users\BooM\documents\visual studio 2017\Projects\StringsAndTextProccessing-Exercises\05_MagicExchangeableWords\obj\Debug\05_MagicExchangeableWords.csprojResolveAssemblyReference.cache
