@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\bin\Debug\02_ArrayManipulator.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\02_ArrayManipulator\obj\Debug\02_ArrayManipulator.pdb

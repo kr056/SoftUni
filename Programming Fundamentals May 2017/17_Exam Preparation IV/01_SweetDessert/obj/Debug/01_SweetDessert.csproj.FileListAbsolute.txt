@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\bin\Debug\01_SweetDessert.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\bin\Debug\01_SweetDessert.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\bin\Debug\01_SweetDessert.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\obj\Debug\01_SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\obj\Debug\01_SweetDessert.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreaparation4\01_SweetDessert\obj\Debug\01_SweetDessert.pdb
