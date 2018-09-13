@@ -1,0 +1,6 @@
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.exe.config
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.pdb
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\obj\Debug\04_DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\obj\Debug\04_DistanceBetweenPoints.exe
+C:\Users\BooM\Documents\Visual Studio 2017\Projects\ObjectsAndClassesLab\04_DistanceBetweenPoints\obj\Debug\04_DistanceBetweenPoints.pdb

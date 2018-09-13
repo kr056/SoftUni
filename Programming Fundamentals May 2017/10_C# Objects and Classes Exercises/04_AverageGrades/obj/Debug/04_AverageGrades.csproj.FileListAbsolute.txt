@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\bin\Debug\04_AverageGrades.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\bin\Debug\04_AverageGrades.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\bin\Debug\04_AverageGrades.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\obj\Debug\04_AverageGrades.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\obj\Debug\04_AverageGrades.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectAndClasses-Exercises\04_AverageGrades\obj\Debug\04_AverageGrades.pdb

@@ -1,0 +1,6 @@
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\bin\Debug\03_Factorial.exe.config
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\bin\Debug\03_Factorial.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\bin\Debug\03_Factorial.pdb
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\obj\Debug\03_Factorial.csprojResolveAssemblyReference.cache
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\obj\Debug\03_Factorial.exe
+c:\users\boom\documents\visual studio 2017\Projects\ObjectsAndClassesLab\03_Factorial\obj\Debug\03_Factorial.pdb
