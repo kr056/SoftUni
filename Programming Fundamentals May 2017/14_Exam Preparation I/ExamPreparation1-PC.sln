@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SoftUniKaraoke", "02_SoftUniKaraoke\02_SoftUniKaraoke.csproj", "{3134D426-AC86-4FEC-8324-E12794582570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_EnduranceRally", "03_EnduranceRally\03_EnduranceRally.csproj", "{A60737CC-9FFA-4EB5-B82C-9C911EFDDCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_WinningTicket", "04_WinningTicket\04_WinningTicket.csproj", "{0B011BBC-43E1-4AB9-83EB-6567CFA24145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3134D426-AC86-4FEC-8324-E12794582570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3134D426-AC86-4FEC-8324-E12794582570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3134D426-AC86-4FEC-8324-E12794582570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3134D426-AC86-4FEC-8324-E12794582570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60737CC-9FFA-4EB5-B82C-9C911EFDDCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60737CC-9FFA-4EB5-B82C-9C911EFDDCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60737CC-9FFA-4EB5-B82C-9C911EFDDCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60737CC-9FFA-4EB5-B82C-9C911EFDDCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B011BBC-43E1-4AB9-83EB-6567CFA24145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B011BBC-43E1-4AB9-83EB-6567CFA24145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B011BBC-43E1-4AB9-83EB-6567CFA24145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B011BBC-43E1-4AB9-83EB-6567CFA24145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

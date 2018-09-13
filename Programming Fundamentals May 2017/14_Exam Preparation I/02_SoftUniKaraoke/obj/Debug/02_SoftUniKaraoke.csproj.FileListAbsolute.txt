@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\bin\Debug\02_SoftUniKaraoke.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\02_SoftUniKaraoke\obj\Debug\02_SoftUniKaraoke.pdb

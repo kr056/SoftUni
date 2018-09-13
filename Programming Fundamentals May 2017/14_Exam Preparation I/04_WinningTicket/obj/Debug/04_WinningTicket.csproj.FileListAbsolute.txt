@@ -1,0 +1,6 @@
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\bin\Debug\04_WinningTicket.exe.config
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\bin\Debug\04_WinningTicket.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\bin\Debug\04_WinningTicket.pdb
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\obj\Debug\04_WinningTicket.csprojResolveAssemblyReference.cache
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\obj\Debug\04_WinningTicket.exe
+c:\users\bang\documents\visual studio 2017\Projects\ExamPreparation1-PC\04_WinningTicket\obj\Debug\04_WinningTicket.pdb
