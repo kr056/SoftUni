@@ -1,0 +1,7 @@
+package a_InterfacesAndAbstraction.Exercises.p07_FoodShortage;
+
+public interface Buyer {
+    void buyFood();
+
+    int getFood();
+}
