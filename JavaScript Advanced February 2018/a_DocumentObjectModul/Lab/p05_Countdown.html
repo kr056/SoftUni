@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <input type="text" id="time" style="border:3px solid blue; text-align:center; font-size:2em;" disabled="true" />
+    <script>window.onload = function () {
+            function countdown(startime) {
+                let time = startime;
+                let box = document.getElementById('time');
+                let intervalID = setInterval(decrement, 1000);
+
+                function decrement() {
+                    time--;
+                    box.value = Math.trunc(time / 60) +
+                        ':' + ((time % 60) > 9 ? time % 60 : '0' + time % 60)
+                }
+
+            }
+            countdown(559)
+        }</script>
+
+</body>
+
+</html>
