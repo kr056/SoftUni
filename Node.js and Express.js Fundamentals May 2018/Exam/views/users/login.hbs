@@ -1,0 +1,17 @@
+<h1>Welcome to SoftUni Wiki!</h1>
+<section>
+    <h2>Login</h2>
+    {{#if error}}
+    <p class="error">{{error}}</p>
+    {{/if}}
+    <div class="spacer">
+        <form method="POST" enctype="multipart/form-data">
+            <label>Email:</label>
+            <input name="username" type="text">
+            <label>Password:</label>
+            <input name="password" type="password">
+            <input type="submit" value="Login">
+        </form>
+    </div>
+</section>
+</main>

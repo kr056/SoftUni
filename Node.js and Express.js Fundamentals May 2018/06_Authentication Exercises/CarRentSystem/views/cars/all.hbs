@@ -1,0 +1,26 @@
+<h1>Cars</h1>
+<h1>Search by make</h1>
+<form method="post" action="/cars/search"  enctype="multipart/form-data">
+    <input type="text" name="make" placeholder="make" />
+    <input id="submit" type="submit" value="SEARCH" />
+</form>
+{{#if carAdded}}
+<div id="succssesBox">
+    <h2 id="succssesMsg">Car added.</h2>
+</div>
+{{/if}}
+<div class="cars-container">
+    {{#each cars}}
+    <div class="car-container">
+            <img src="{{imageUrl}}"  alt='car-image' />
+            <p>
+                <strong>{{make}} {{model}}</strong>
+            </p>
+            <p>
+                <strong>Price Per Day: {{price}}$</strong>
+            </p>
+            <a href="/cars/rent/{{_id}}">Rent</a>
+            <a href="/cars/edit/{{_id}}">Edit</a>
+    </div>
+    {{/each}}
+</div>

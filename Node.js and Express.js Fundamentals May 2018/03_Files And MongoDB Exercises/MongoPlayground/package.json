@@ -1,0 +1,15 @@
+{
+  "name": "mongoplayground",
+  "version": "1.0.0",
+  "description": "MongoDb exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hah')"
+  },
+  "author": "BR",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "mongoose": "^5.1.4"
+  }
+}
