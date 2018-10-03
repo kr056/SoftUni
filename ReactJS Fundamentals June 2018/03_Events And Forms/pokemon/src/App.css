@@ -1,0 +1,28 @@
+form{
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+input{
+  width: 100%;
+  padding: 6px 12px;
+  box-sizing: border-box;
+
+}
+
+.App{
+  width:800px;
+  margin: 0 auto;
+  border: 2px solid grey;
+  text-align: center;
+}
+
+p{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.error{
+  color: red;
+}

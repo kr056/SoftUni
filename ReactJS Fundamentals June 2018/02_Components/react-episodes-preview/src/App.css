@@ -1,0 +1,48 @@
+.warper{
+  display: inline-block;
+  position: relative;
+}
+
+.warper .sliderImg{
+  max-height: 400px;
+}
+
+.warper .slider-button{
+  position: absolute;
+  top:50%;
+  transform:translateY(-50%);
+  width: 150px;
+  height: 150px;
+}
+
+.warper .case-left {
+  left: 0;
+}
+.warper .case-right {
+  right: 0;
+}
+
+.container {
+  width: 1000px;
+  padding: 10px;
+  border: 2px solid grey;
+  margin: 0 auto;
+}
+
+.imageContainer img{
+  height:200px;
+  width: 200px; 
+}
+
+.imageContainer div{
+  display: inline-block
+}
+
+.imageContainer {
+  padding: 1px;
+}
+
+.detailsContainer div > img{
+  height:200px;
+  width: 200px; 
+}
