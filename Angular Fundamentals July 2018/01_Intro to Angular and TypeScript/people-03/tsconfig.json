@@ -1,0 +1,18 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outFile": "./built/local/tsc.js",
+    },
+    "files": [
+        "Employee.ts",
+        "Junior.ts",
+        "Senior.ts",
+        "Manager.ts",
+        "main.ts",
+    ]
+}

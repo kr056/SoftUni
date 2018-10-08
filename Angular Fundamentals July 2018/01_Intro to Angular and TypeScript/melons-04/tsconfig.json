@@ -1,0 +1,20 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outFile": "./built/local/tsc.js",
+    },
+    "files": [
+        "Melon.ts",
+        "Watermelon.ts",
+        "Airmelon.ts",
+        "Firemelon.ts",
+        "Earthmelon.ts",
+        "Melonmelon.ts",
+        "main.ts",
+    ]
+}

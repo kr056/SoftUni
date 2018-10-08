@@ -1,0 +1,31 @@
+<div *ngIf="recipe">
+  <div class="row">
+    <div class="col-xs-12">
+      <img
+        src="{{recipe.imagePath}}"
+        alt="sth"
+        class="img-responsive"
+        style="max-height: 300px;">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>{{recipe.name}}</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+        <ul>
+            <li><button class="btn btn-warning" routerLink="/recipe/edit/{{id}}">Edit Recipe</button></li>
+            <br/>
+            <li><button class="btn btn-danger" (click)="delete()">Delete Recipe</button></li>
+        </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      {{recipe.description}}
+    </div>
+  </div>
+  
+</div>

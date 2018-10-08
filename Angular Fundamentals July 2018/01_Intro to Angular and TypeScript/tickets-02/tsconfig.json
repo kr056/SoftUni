@@ -1,0 +1,14 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./built/local/tsc.js",
+        "sourceMap": true
+    },
+    "files": [
+        "Ticket.ts"
+    ]
+}
