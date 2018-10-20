@@ -176,7 +176,7 @@ module.exports.search = (req, res) => {
     let searchWord = req.body.searchField;
 
     Article.find().then((articles) => {
-        let filteredArticles=articles.filter((a)=>a.title.includes(searchWord));
+        let filteredArticles=articles.filter((a)=>a.title.toLowerCase().includes(searchWord.toLowerCase()));
         res.render('article/search',{searchWord,articles:filteredArticles});
     })
 
