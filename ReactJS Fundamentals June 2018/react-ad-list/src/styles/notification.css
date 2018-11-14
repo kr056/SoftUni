@@ -1,0 +1,11 @@
+#successBox{
+    color:green
+  }
+  
+  #errorBox{
+    color:red
+  }
+  
+  #loadingBox{
+    color:deepskyblue
+  }
