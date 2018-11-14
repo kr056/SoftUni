@@ -1,0 +1,25 @@
+<div class="card my-4">
+  <h5 class="card-header">Leave a Comment:</h5>
+  <div class="card-body">
+    <form #commentForm="ngForm" (ngSubmit)="createComment(); commentForm.reset()">
+      <div class="form-group">
+        <textarea required type="text" id="commentContent" class="form-control" name="commentContent" [(ngModel)]="bindingModel.commentContent"
+        #commentContent="ngModel" rows="3"></textarea>
+        <div [hidden]="commentContent.valid || commentContent.pristine" class="alert alert-danger">
+          Comment is required!
+        </div>
+      </div>
+      <button type="submit"[disabled]="commentForm.invalid" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</div>
+<div *ngFor="let c of comments | async">
+  <div class="media mb-4">
+    <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/50x50" alt="">
+    <div class="media-body">
+      <h5 class="mt-0">{{c.commentAuthorName}}</h5>
+      {{c.commentContent}}
+      <!-- <button *ngIf="this.authService.isAdmin()" class="btn btn-danger" (click)="deleteComment(c.id)">Delete</button> -->
+    </div>
+  </div>
+</div>

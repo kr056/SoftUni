@@ -1,0 +1,8 @@
+<div class="row">
+  <div id="sth" class="col-md-4 mb-3" *ngFor="let post of posts | async">
+    <a routerLink="/post/details/{{post.postId}}">
+      <h4>{{post.postTitle | uppercase}}</h4>
+      <img src="{{post.postImage}}" alt="Card image">
+    </a>
+  </div>
+</div>

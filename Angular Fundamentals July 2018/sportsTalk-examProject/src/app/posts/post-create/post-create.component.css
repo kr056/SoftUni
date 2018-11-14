@@ -1,0 +1,11 @@
+.row{
+    padding:20px;
+}
+#createPostInfo{
+    padding:20px;
+    text-align: center;
+}
+img{
+    width:250px;
+    height:200px;
+}
