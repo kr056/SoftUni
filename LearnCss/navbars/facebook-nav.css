@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+main{
+    width: 70%;
+    min-width: 400px;
+    min-height: 400px;
+    background: #fff;
+    padding: 40px 20px;
+    border-radius: 5px;
+    box-shadow: 5px 55px 50px -20px #b6b6b6;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+.facebook{
+    display: flex;
+    height: 46px;
+    align-items: center;
+    padding: 0 10px;
+    border: 1px solid rgba(238,238,238,1);
+    border-radius: 5px;
+    background: rgba(59,89,153,1);
+    color:#fff;
+    font-size: 0.9em;
+    box-shadow: 5px 10px 20px -20px rgba(59,89,153,1)
+}
+
+.facebook__search{
+    margin-right: auto;
+}
+
+.facebook__brand i{
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+
+.facebook li:not(:last-child):not(:first-child):not(.facebook__search){
+    margin-right: 10px;
+}
