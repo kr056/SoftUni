@@ -12,7 +12,6 @@ export default class Catalog extends Component {
         this.state = { ads: [] }
     }
 
-
     componentDidMount() {
         //user guestLogin function to pull collection from kinvey
         if (sessionStorage.getItem('authtoken') === null) {
@@ -42,7 +41,7 @@ export default class Catalog extends Component {
                 <AdminView />
                 <div id="allAds" className="container">
                     <div className="row">
-                        {this.state.ads.map(a => <Ad key={a._id} {...a} />)}
+                        {this.state.ads.map(ad => <Ad key={ad._id} {...ad} />)}
                     </div>
                 </div>
             </div>
