@@ -9,7 +9,6 @@ export default class Header extends Component {
         this.state = { username: '' }
 
         observer.subscribe(observer.events.loginUser, this.userLoggedInUpdate.bind(this))
-
     }
 
     userLoggedInUpdate(username) {
@@ -17,19 +16,21 @@ export default class Header extends Component {
     }
 
     render() {
-        const notLoggedIn = <ul className="navbar-nav">
-            <li className="nav-item">
-                <NavLink to="/user/login" className="nav-link">
-                    Login
-                </NavLink>
-            </li>
-            <li className="nav-item">
-                <NavLink to="/user/register" className="nav-link">
-                    Register
-                </NavLink>
-            </li>
-        </ul>
-        const loggedIn =
+        const notLoggedIn = (
+            <ul className="navbar-nav">
+                <li className="nav-item">
+                    <NavLink to="/user/login" className="nav-link">
+                        Login
+                    </NavLink>
+                </li>
+                <li className="nav-item">
+                    <NavLink to="/user/register" className="nav-link">
+                        Register
+                    </NavLink>
+                </li>
+            </ul>
+        )
+        const loggedIn = (
             <ul className="navbar-nav">
                 <li className="nav-item">
                     <NavLink to="/user/profile" className="nav-link">
@@ -42,9 +43,12 @@ export default class Header extends Component {
                     </a>
                 </li>
             </ul>
-        const canCreateAds = <li className="nav-item">
-            <NavLink to="/ad/create" className="nav-link">Create Ad</NavLink>
-        </li>
+        )
+        const canCreateAds = (
+            <li className="nav-item">
+                <NavLink to="/ad/create" className="nav-link">Create Ad</NavLink>
+            </li>
+        )
         return (
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <NavLink to="/" className="navbar-brand">AdList</NavLink>
